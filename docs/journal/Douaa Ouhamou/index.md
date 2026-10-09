@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Étudiant 1
-parent: Journal de bord
-has_children: true
+title: 2026/09/25
+parent: Douaa Ouhamou
+has_children: Journal de bord
 ---
 
 # Étudiant 1
