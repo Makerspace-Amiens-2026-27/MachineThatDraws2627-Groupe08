@@ -5,7 +5,7 @@ parent: Journal de bord
 has_children: true
 ---
 
-# Étudiant 1
+# Pio Awaida
 
 {: .a_modifier }
 > Remplacez « Étudiant 1 » par votre prénom et votre nom, **dans le titre de la page
