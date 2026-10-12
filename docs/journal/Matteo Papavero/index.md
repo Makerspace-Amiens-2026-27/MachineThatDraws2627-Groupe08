@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mattéo PAPAVERO
+title: Matteo PAPAVERO
 parent: Journal de bord
 has_children: true
 ---
