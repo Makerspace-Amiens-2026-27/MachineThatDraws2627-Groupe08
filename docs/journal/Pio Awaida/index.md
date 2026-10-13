@@ -1,6 +1,6 @@
 ---
 layout: default
-title: docs/journal/Pio_Awaida/index.md
+title: Pio_AWAIDA
 parent: Journal de bord
 has_children: true
 ---
