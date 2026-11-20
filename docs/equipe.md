@@ -19,8 +19,10 @@ title: Équipe et rôles
 
 | Membre | Formation | Compte GitHub |
 |---|---|---|
-| Prénom Nom | … | [@pseudo](https://github.com/pseudo) |
-| Prénom Nom | … | [@pseudo](https://github.com/pseudo) |
+| Erwann Leray-Viville | I2 | [@pseudo](https://github.com/pseudo) |
+| Pio Awaida | I2 | [@pseudo](https://github.com/pseudo) |
+| Matteo Papavero | I2 | [@pseudo](https://github.com/pseudo) |                                   
+| Douaa Ouhamou | I2 | [@pseudo](https://github.compseudo) |
 
 ## Rôles
 
@@ -35,18 +37,24 @@ title: Équipe et rôles
 
 | Rôle | Responsable | Backup | Ce qu'il couvre |
 |---|---|---|---|
-| Mécanique / CAO | … | … | Conception, impression, assemblage |
-| Électronique | … | … | Schéma, câblage, PCB |
-| Logiciel / firmware | … | … | Code embarqué, tests logiciels |
-| Coordination documentation | … | … | Cohérence du site, structure, relecture finale |
-| Coordination / planning | … | … | Suivi des délais, animation des réunions |
+| Mécanique / CAO | Matteo   | Auguste | Conception, impression, assemblage |
+| Électronique | Erwann  | Matteo | Schéma, câblage, PCB |
+| Logiciel / firmware | Auguste  | Pio | Code embarqué, tests logiciels |
+| Coordination documentation | Douaa | Erwann | Cohérence du site, structure, relecture finale |
+| Coordination / planning | Pio | Douaa | Suivi des délais, animation des réunions |
 
-## Fonctionnement
+## Organisation et communication de l'équipe
 
-{: .a_modifier }
-> Quand vous réunissez-vous ? Comment communiquez-vous (messagerie, issues GitHub) ?
-> Comment tranchez-vous un désaccord technique (vote, décision du responsable de la
-> partie concernée, arbitrage par l'encadrant) ?
+### Réunions et communication
+
+- **Réunions :** nous nous réunissons principalement pendant les heures de cours afin de faire le point sur l'avancement du projet, de répartir les tâches et de prendre les décisions nécessaires.
+- **Communication :** lorsque nous sommes ensemble, nous privilégions les échanges à l'oral. Lorsque nous ne sommes pas réunis, nous communiquons principalement par mail.
+
+### Prise de décision et gestion des désaccords
+
+- **Décision collective :** en cas de désaccord technique, nous organisons un vote afin de retenir la solution qui convient au plus grand nombre.
+- **Rôle du responsable :** le responsable de la partie concernée dispose d'un poids légèrement plus important dans la décision, notamment grâce à sa connaissance du sujet.
+- **Objectif :** trouver un compromis permettant de faire avancer le projet tout en tenant compte des avis de chacun.
 
 ### Suivi des tâches (optionnel)
 
