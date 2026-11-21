@@ -1,4 +1,4 @@
-# Nom du projet
+# Sandraw
 
 > [!IMPORTANT]
 > **À modifier** : ce repo a été créé depuis le template de projet du MakerSpace d'Amiens.
@@ -13,5 +13,8 @@ Une phrase qui explique ce que fait le projet et pour qui.
 
 ## Équipe
 
-- Prénom Nom
-- Prénom Nom
+- Erwann Leray-Viville
+- Pio Awaida
+- Matteo Papavero
+- Douaa Ouhamou
+- Auguste Dartoy

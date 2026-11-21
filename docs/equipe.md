@@ -23,6 +23,7 @@ title: Équipe et rôles
 | Pio Awaida | I2 | [@pseudo](https://github.com/pseudo) |
 | Matteo Papavero | I2 | [@pseudo](https://github.com/pseudo) |                                   
 | Douaa Ouhamou | I2 | [@pseudo](https://github.compseudo) |
+| Auguste Dartoy | I2 | [@Auguste-Dartoy](https://github.com.Auguste-Dartoy) |
 
 ## Rôles
 
